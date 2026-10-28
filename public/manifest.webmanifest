@@ -1,0 +1,24 @@
+{
+  "name": "Tectranz Learning & Internship Portal",
+  "short_name": "Tectranz LMS",
+  "description": "Production learning, projects, mentor reviews, and certification platform for Tectranz AI Internships.",
+  "start_url": "/student/dashboard",
+  "display": "standalone",
+  "background_color": "#0C0A33",
+  "theme_color": "#0C0A33",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
